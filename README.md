@@ -8,6 +8,10 @@ A data analytics mini-project exploring network packet logs with Excel, Python, 
 - Validate data quality and analyze traffic with SQL.
 - Visualize protocol distribution, session metrics, and destination traffic in Power BI.
 - Summarize the workflow and findings in the project report.
+## Dashboard
+
+<img width="1013" height="565" alt="image" src="https://github.com/user-attachments/assets/544cea1c-fdda-431b-ace9-cc999d37e389" />
+
 
 ## Dataset
 
